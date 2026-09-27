@@ -1,6 +1,10 @@
 {
     "news": [
         {
+            "text": "ТЫ ЛОХ!",
+            "color": "red"
+        },
+        {
             "text": "ТУпойыфы!",
             "color": "green"
         },
