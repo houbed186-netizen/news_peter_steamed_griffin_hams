@@ -2,27 +2,33 @@
     "news": [
         {
             "text": "ТЫ ЛОХ!",
-            "color": "red"
+            "color": "red",
+            "image": "https://avatars.mds.yandex.net/i?id=2da3b5d23e91489f8bf87448448e9fc92f8c31e2-10350577-images-thumbs&n=13"
         },
         {
             "text": "ТУпойыфы!",
-            "color": "green"
+            "color": "green",
+            "image": ""
         },
         {
             "text": "ЫВывывыЫвыфв!",
-            "color": "green"
+            "color": "green",
+            "image": ""
         },
         {
             "text": "Вфывфвф акеререререре",
-            "color": "red"
+            "color": "red",
+            "image": ""
         },
         {
             "text": "УРАВЫВЫВЫАу",
-            "color": "yellow"
+            "color": "yellow",
+            "image": ""
         },
         {
             "text": "ФВау кпф пфк пкф",
-            "color": "green"
+            "color": "green",
+            "image": ""
         }
     ]
 }
