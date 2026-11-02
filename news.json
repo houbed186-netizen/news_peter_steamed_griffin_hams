@@ -1,6 +1,11 @@
 {
     "news": [
         {
+            "text": "этот чувачок показал что он крутой, сломал шершеный улей за 5 секунд но лечился 5 месяцев, за это ему дали нобелевскую премию",
+            "color": "blue",
+            "image": "https://static.wikia.nocookie.net/peter-griffin-toilet-scrubbing-simulator/images/1/10/Saher_725.jpg/revision/latest?cb=20260911150407&path-prefix=ru"
+        },
+        {
             "text": "Запланировано обновление игры 1.0.0.75 где чтото новое добавять ждите! скоро",
             "color": "yellow",
             "image": "https://avatars.mds.yandex.net/i?id=e8b66bc32866342b39a6fab13dcf730e9992c41f-5257789-images-thumbs&n=13"
