@@ -1,6 +1,11 @@
 {
     "news": [
         {
+            "text": "НОВОСТИ ПОЧЕНИЛИ",
+            "color": "yellow",
+            "image": "https://avatars.mds.yandex.net/i?id=b8d0328c22b9553d9f30900810fe22d1d672e319-5293214-images-thumbs&n=13"
+        },
+        {
             "text": "курс биткоина упал помянем",
             "color": "red",
             "image": "https://avatars.mds.yandex.net/i?id=f579920a53f6fadc1f90220d4183fa4a503592fc-10638828-images-thumbs&n=13"
