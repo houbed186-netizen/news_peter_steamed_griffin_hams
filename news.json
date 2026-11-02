@@ -1,6 +1,11 @@
 {
     "news": [
         {
+            "text": "⠺ ⠎⠅⠁⠭⠁⠇ ⠁⠝⠙⠗⠕⠊⠙ ⠝⠁ ⠁⠊⠋⠕⠝ ⠥⠵⠃⠁⠛⠕⠊⠎⠫",
+            "color": "green",
+            "image": "https://avatars.mds.yandex.net/i?id=0e161692379f750a006e593b01bd65bbd7471298-8810682-images-thumbs&n=13"
+        },
+        {
             "text": "этот чувачок показал что он крутой, сломал шершеный улей за 5 секунд но лечился 5 месяцев, за это ему дали нобелевскую премию",
             "color": "blue",
             "image": "https://avatars.mds.yandex.net/i?id=fecf5efc7e5152950c515754b4191e8c93cc5ea9-5088288-images-thumbs&n=13"
