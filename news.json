@@ -1,6 +1,11 @@
 {
     "news": [
         {
+            "text": "тест тест лохер",
+            "color": "rainbow",
+            "image": "https://tenor.com/uXW1t95muwT.gif"
+        },
+        {
             "text": "Romix tatar выложил новое видео! посмотри его https://youtu.be/0MFzvaeKAIU?si=xCpbfZsHNscSkruk",
             "color": "green",
             "image": "https://avatars.mds.yandex.net/i?id=23c3e39288ed611923cdc7509e526772aee5c2b7-5042534-images-thumbs&n=13"
