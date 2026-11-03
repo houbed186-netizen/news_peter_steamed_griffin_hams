@@ -1,11 +1,6 @@
 {
     "news": [
         {
-            "text": "Обновление 1.0.0.725 вышло, добавили гифки в новости, новые цвета текста в новости такие как радужный и оранжевый, добавили открытие сылок через новости, доработал курсор спанчбоба и также теперь монжо вырубить музыку на фоне (чекушка)",
-            "color": "rainbow",
-            "image": "https://media1.tenor.com/m/8k5IobQNNaEAAAAd/epic-embed-fail-atlas-earth.gif"
-        },
-        {
             "text": "Romix tatar выложил новое видео! посмотри его https://youtu.be/0MFzvaeKAIU?si=xCpbfZsHNscSkruk",
             "color": "green",
             "image": "https://avatars.mds.yandex.net/i?id=23c3e39288ed611923cdc7509e526772aee5c2b7-5042534-images-thumbs&n=13"
