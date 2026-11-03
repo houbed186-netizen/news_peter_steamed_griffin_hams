@@ -1,6 +1,11 @@
 {
     "news": [
         {
+            "text": "обновление 1.0.0.725 вышла, ура! что добавили можешь узнать через кнопку change log в меню",
+            "color": "rainbow",
+            "image": "https://media1.tenor.com/m/8k5IobQNNaEAAAAd/epic-embed-fail-atlas-earth.gif"
+        },
+        {
             "text": "Romix tatar выложил новое видео! посмотри его https://youtu.be/0MFzvaeKAIU?si=xCpbfZsHNscSkruk",
             "color": "green",
             "image": "https://avatars.mds.yandex.net/i?id=23c3e39288ed611923cdc7509e526772aee5c2b7-5042534-images-thumbs&n=13"
