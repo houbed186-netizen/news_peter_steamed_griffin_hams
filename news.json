@@ -1,6 +1,11 @@
 {
     "news": [
         {
+            "text": "в 1.0.0.8 если вы будете играть на виндовс 7 то у вас будет специальный значок, если хочешь его потом получить то переходи быстрей",
+            "color": "green",
+            "image": "https://avatars.mds.yandex.net/i?id=b99807f84322e3210eb774b57e96b3eff958166f-15286066-images-thumbs&n=13"
+        },
+        {
             "text": "мистер биста орестовали на северном кипре",
             "color": "blue",
             "image": "https://avatars.mds.yandex.net/i?id=8e91ef01a55608965cb2eb2666ba6263197864ed-11921588-images-thumbs&n=13"
