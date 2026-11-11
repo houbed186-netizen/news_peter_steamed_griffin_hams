@@ -1,6 +1,11 @@
 {
     "news": [
         {
+            "text": "Сервера дипсика упали.",
+            "color": "blue",
+            "image": "https://avatars.mds.yandex.net/i?id=1cccf15f4573aa1242480b42f0a50f0474bfb14c-4885656-images-thumbs&n=13"
+        },
+        {
             "text": "Новый ивент чума в петрозаводске погнали",
             "color": "orange",
             "image": "https://avatars.mds.yandex.net/i?id=3845febd82f36ecca7ca997ed069a8404fe43132-5587421-images-thumbs&n=13"
