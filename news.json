@@ -1,6 +1,11 @@
 {
     "news": [
         {
+            "text": "рубль подорожал на 247 рубля.",
+            "color": "red",
+            "image": "https://avatars.mds.yandex.net/i?id=bcdac90112056cd5437b4daf6759b79f18b81e72-11406357-images-thumbs&n=13"
+        },
+        {
             "text": "СМИ: путин с трампом подружился и китайским начальником.",
             "color": "green",
             "image": "https://avatars.mds.yandex.net/i?id=c548c12cf850f35d43c3cb94432b9c1ac105687e-9880043-images-thumbs&n=13"
