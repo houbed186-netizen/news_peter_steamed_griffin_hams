@@ -1,6 +1,11 @@
 {
     "news": [
         {
+            "text": "СМИ: путин с трампом подружился и китайским начальником.",
+            "color": "green",
+            "image": "https://avatars.mds.yandex.net/i?id=c548c12cf850f35d43c3cb94432b9c1ac105687e-9880043-images-thumbs&n=13"
+        },
+        {
             "text": "Сервера дипсика упали.",
             "color": "blue",
             "image": "https://avatars.mds.yandex.net/i?id=1cccf15f4573aa1242480b42f0a50f0474bfb14c-4885656-images-thumbs&n=13"
