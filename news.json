@@ -1,6 +1,11 @@
 {
     "news": [
         {
+            "text": "гта 6 выйдет через недельку!!!!!!!!!!!!!!!!!!!!!!",
+            "color": "yellow",
+            "image": "https://avatars.mds.yandex.net/i?id=48234519501a44ea85f8140bd926f243d09d53b3-12752977-images-thumbs&n=13"
+        },
+        {
             "text": "рубль подорожал на 247 рубля.",
             "color": "red",
             "image": "https://avatars.mds.yandex.net/i?id=bcdac90112056cd5437b4daf6759b79f18b81e72-11406357-images-thumbs&n=13"
